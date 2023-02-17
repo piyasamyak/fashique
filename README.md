@@ -1,4 +1,4 @@
-The live version of the website can be found [here](!crownova.netlify.app).
+The live version of the website can be found [here](https://crownova.netlify.app).
 
 # Getting Started with Create React App
 
